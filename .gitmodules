@@ -1,0 +1,9 @@
+[submodule "RPi-XCVR-pHAT"]
+	path = RPi-XCVR-pHAT
+	url = https://github.com/MuellerDominik/RPi-XCVR-pHAT.git
+[submodule "BMS-Software"]
+	path = BMS-Software
+	url = https://github.com/MuellerDominik/BMS-Software.git
+[submodule "BMS-Board"]
+	path = BMS-Board
+	url = https://github.com/MuellerDominik/BMS-Board.git
